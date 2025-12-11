@@ -1,21 +1,15 @@
 <<<<<<< HEAD
 # biy_daalt2
 
-BiyDaatlshit
+Ажилуулахын тулд:
+1.  main.py дээрх нь directory дээр очоод uvicorn main:app --reload --host 0.0.0.0 --port 8000 гээд run хийнэ. 
+2.  Дараа нь шууд flutter app run хийгээд болно.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   
 =======
-# aylalFlutterApp
-Mobile programm дээр хийсэн сорил 2 тооцуулах Flutter app
+# Танилцуулга.
+Mobile programm дээр хийсэн сорил 2 тооцуулах Flutter app 
+
+# Figma дээр хийсэн UI дизайн дээрээ суурилан хийв.
+https://www.figma.com/design/brZbWxA8oMpjtWpvSIoeLG/MongolianTourism?node-id=69-20&t=L3DPcUFnhcLvbidO-0
 >>>>>>> b5ab95608fe21096dda69c8c13a1394f27c8a130
